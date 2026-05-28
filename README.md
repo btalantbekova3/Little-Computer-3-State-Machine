@@ -1,6 +1,9 @@
 # Little-Computer-3-State-Machine
 This project simulates a simple LC-2 processor using a state machine approach. It models how instructions move through different stages of execution in a CPU.
 
+<img width="1043" height="522" alt="image" src="https://github.com/user-attachments/assets/0a308f01-49ee-4ab7-be97-d7cec537966b" />
+
+
 ## Features
 
 * Implements LC-2 instruction cycle using a state machine
