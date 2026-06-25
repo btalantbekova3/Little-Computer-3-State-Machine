@@ -1,0 +1,12 @@
+---
+:id: 271306412
+:submitters:
+- :name: Bermet Talantbekova
+  :email: btalantbekova3@gatech.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2024-09-25 19:10:49.871255000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2024-09-25 12:10:49.871255000 Z
+:status: processed
+:score: 100.0
